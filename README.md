@@ -1,4 +1,3 @@
-# Try-Hack-Me-SOC-Level1-Projects
 # 🛡️ TryHackMe SOC Level 1 Projects
 
 Welcome to my SOC Analyst portfolio repository!  
